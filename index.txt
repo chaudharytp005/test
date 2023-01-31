@@ -1,0 +1,4 @@
+Why We Need Version Control SystemTrack changes
+1. Who changed what
+2.Undone the changes
+3. Multiple branchesFor the tracking of detailed changes: Onlyfor text files.
