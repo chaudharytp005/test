@@ -1,3 +1,0 @@
-GitHubA hosting service on which you can use git tocontrol the version of your code.
-• You can use git offline or online.
-• If you want to transfer your code to an onlineplatform, GitHub is a good choice.
