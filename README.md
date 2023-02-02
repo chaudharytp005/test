@@ -1,1 +1,1 @@
- https://chaudharytp005.github.io/test/
+https://github.com/chaudharytp005/test.git
